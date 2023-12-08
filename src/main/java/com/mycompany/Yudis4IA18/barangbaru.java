@@ -1,4 +1,4 @@
-package com.mycompany.saut4ia19;
+package com.mycompany.yudis4ia18;
 public class barangbaru {
     private final String namabrg;
     private final int jmlhbrg;
