@@ -1,4 +1,4 @@
-package com.mycompany.saut4ia19;
+package com.mycompany.yudis4ia18;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 public class ControllerBarang {
