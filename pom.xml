@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>com.mycompany.saut4ia19.Saut4IA19</exec.mainClass>
+        <exec.mainClass>com.mycompany.yudis4ia18.Yudis4IA18</exec.mainClass>
     </properties>
 </project>
